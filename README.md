@@ -6,6 +6,8 @@
 
 ## Demo
 
+https://github.com/dannygallardo/customer_banking/assets/158865403/091340b7-8732-4e1b-922f-5272b953e8ad
+
 ## Key Features
 - User inputs account balances, interest rate, and time to maturity
 - Program prints out interest earned across each account
